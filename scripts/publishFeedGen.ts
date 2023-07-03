@@ -17,19 +17,19 @@ const run = async () => {
   // A short name for the record that will show in urls
   // Lowercase with no spaces.
   // Ex: whats-hot
-  const recordName = 'for-science'
+  const recordName = 'GenX-Files'
 
   // A display name for your feed
   // Ex: What's Hot
-  const displayName = "What's Science"
+  const displayName = "GenX Files"
 
   // (Optional) A description of your feed
   // Ex: Top trending content from the whole network
-  const description = 'A simple feed of known Bluesky scientists, science communicators, and related experts; speaking with their expertise. Flag @danirabaiotti.bsky.social to be added or https://bsky.app/profile/bossett.bsky.social/post/3jxjfswtvil2s for more info!'
+  const description = 'A simple feed of self-identified GenX posters. Flag @patri.xyz!'
 
   // (Optional) The path to an image to be used as your feed's avatar
   // Ex: ~/path/to/avatar.jpeg
-  const avatar: string = 'images/testtube.jpg'
+  const avatar: string = 'images/Xicon.jpg'
 
   // -------------------------------------
   // NO NEED TO TOUCH ANYTHING BELOW HERE
